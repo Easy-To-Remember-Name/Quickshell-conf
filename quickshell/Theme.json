@@ -1,0 +1,56 @@
+{
+    "colors": {
+        "balence": "grey",
+        "battery": "#fcaa1d",
+        "batterySaver": "#0ffbff",
+        "clock": "#fcad02",
+        "cpu": "white",
+        "fullscreen": "white",
+        "performance": "white",
+        "power": "red",
+        "primary": "#fcad02",
+        "ram": "#fcad02",
+        "secondary": "#ffffff",
+        "temp": "white",
+        "tertiary": "#d6d3c9",
+        "tray": "#ffffff",
+        "volume": "#fcad02"
+    },
+    "font": {
+        "battery": "white",
+        "clock": "white",
+        "cpu": "black",
+        "primaryFont": "black",
+        "ram": "white",
+        "secondaryFont": "white",
+        "temp": "black"
+    },
+    "icon": {
+        "battery": "white",
+        "clock": "white",
+        "cpu": "black",
+        "performance": "black",
+        "power": "white",
+        "ram": "white",
+        "temp": "black",
+        "volume": "white"
+    },
+    "powerPanel": {
+        "background": "#f5f5f5",
+        "cancel": "#cccccc",
+        "cancelFont": "#1e1e1e",
+        "cancelIcon": "#1e1e1e",
+        "logout": "#4c8eda",
+        "logoutFont": "#ffffff",
+        "logoutIcon": "#ffffff",
+        "reboot": "#5cb85c",
+        "rebootFont": "#ffffff",
+        "rebootIcon": "#ffffff",
+        "shutdown": "#d9534f",
+        "shutdownFont": "#ffffff",
+        "shutdownIcon": "#ffffff",
+        "suspend": "#5bc0de",
+        "suspendFont": "#ffffff",
+        "suspendIcon": "#ffffff"
+    }
+}
